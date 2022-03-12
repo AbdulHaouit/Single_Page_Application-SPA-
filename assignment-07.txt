@@ -1,0 +1,164 @@
+Personal details:
+
+{
+            "title":"Buy Mobile Phone",
+            "firstname":"Abdul",
+            "surname":"Mr",
+            "mobile":"0876773994",
+            "email": "abdulhd@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Dublin",
+            "eircode":"D15TX7H"
+        }
+{
+            "title":"Sell Mobile Phone",
+            "firstname":"Ali",
+            "surname":"Mr",
+            "mobile":"0867735399",
+            "email": "alit@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Sligo",
+            "eircode":"S15UT7P"
+        }
+{
+            "title":"This is title",
+            "firstname":"Ahmed",
+            "surname":"Mr",
+            "mobile":"0867235599",
+            "email": "ahmad89@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"longford",
+            "eircode":"L15U9SP"
+        }
+{
+            "title":"Another Title",
+            "firstname":"islam",
+            "surname":"Mr",
+            "mobile":"0867232499",
+            "email": "islamataal@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Donegal",
+            "eircode":"36050"
+        }
+{
+            "title":"Another title",
+            "firstname":"bilal",
+            "surname":"Mr",
+            "mobile":"0867733499",
+            "email": "bilalbee@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Dublin",
+            "eircode":"36050"
+        }
+{
+            "title":"Another Title",
+            "firstname":"Abdullah",
+            "surname":"Mr",
+            "mobile":"0862734499",
+            "email": "abdullah37@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Belfast",
+            "eircode":"36050"
+        }
+{
+            "title":"Another Title",
+            "firstname":"Abdelmalik",
+            "surname":"Mr",
+            "mobile":"08677399",
+            "email": "Abdelmalik90@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Galway",
+            "eircode":"36050"
+        }
+{
+            "title":"Another Title",
+            "firstname":"Mustafa",
+            "surname":"Mr",
+            "mobile":"0867734399",
+            "email": "mustafabee@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Dublin",
+            "eircode":"36050"
+        }
+{
+            "title":"Another title",
+            "firstname":"josh",
+            "surname":"Mr",
+            "mobile":"0867347399",
+            "email": "joshbee23@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Limerick",
+            "eircode":"36050"
+        }
+{
+            "title":"Another Title",
+            "firstname":"Danial",
+            "surname":"Mr",
+            "mobile":"0867324388",
+            "email": "Danial24@gmail.com",
+            "homeaddress":"Main street",
+            "shippingaddress":"Sittara coloney",
+            "town":"Dublin",
+            "eircode":"36050"
+        }
+
+Items file:
+{
+    "manufacturer":"Abdul",
+    "model":"Huawei",
+    "price":"150"
+}
+{
+    "manufacturer":"Ali",
+    "model":"Nova",
+    "price":"120"
+}
+{
+    "manufacturer":"Ahmed",
+    "model":"IPhone",
+    "price":"500"
+}
+{
+    "manufacturer":"islam",
+    "model":"samsung",
+    "price":"300"
+}
+{
+    "manufacturer":"bilal",
+    "model":"Infinix",
+    "price":"600"
+}
+{
+    "manufacturer":"Abdullah",
+    "model":"Huawei mate 10",
+    "price":"210"
+}
+{
+    "manufacturer":"Abdelmalik",
+    "model":"Vivo",
+    "price":"180"
+}
+{
+    "manufacturer":"Mustafa",
+    "model":"Infinix",
+    "price":"320"
+}
+{
+    "manufacturer":"josh",
+    "model":"Vivo",
+    "price":"115"
+}
+{
+    "manufacturer":"Danial",
+    "model":"Huawei",
+    "price":"130"
+}
